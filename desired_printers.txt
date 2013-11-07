@@ -1,0 +1,6 @@
+A list of desired printers. Will add more in time.
+lj_dl_172_a
+lj_dl_272_a
+lj_cl_112_a
+lj_cl_112_b
+lj_cl_112_c
